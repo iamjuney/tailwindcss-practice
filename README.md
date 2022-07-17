@@ -1,2 +1,2 @@
 # tailwindcss-practice
- Clone Sites with Tailwindcss
+ Popular Websites - Landpages - using Tailwindcss
